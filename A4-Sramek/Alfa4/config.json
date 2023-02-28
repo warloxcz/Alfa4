@@ -1,0 +1,17 @@
+{
+    "ip": "0.0.0.0",
+    "port": 8088,
+    "name": "Jej",
+     "scan": {
+       "ip_range": "192.168.0.0/24",
+       "port_range": [8080,8088]
+     },
+
+    "words": {
+        "hello": "ahoj",
+        "spice": "koření",
+        "turtle": "želva",
+        "pineapple": "ananas",
+        "colonel": "plukovník"
+    }
+}
